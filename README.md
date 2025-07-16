@@ -30,7 +30,7 @@ It's perfect for beginners who want to learn HTML, CSS, and JavaScript step by s
 ## 📷 Preview
 Below is a preview of the chatbot interface:
 
-![Chatbot Screenshot](screenshot.png)
+![Chatbot Screenshot](Screenshot.png)
 
 ---
 
